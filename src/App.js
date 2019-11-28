@@ -6,10 +6,10 @@ class App extends Component {
     super(props);
     this.state = {
       languages: [
-        {name: "Php", votes: 0},
-        {name: "Python", votes: 0},
-        {name: "Go", votes: 0},
-        {name: "Java", votes: 0}
+        {name: "French", votes: 0},
+        {name: "Spanish", votes: 0},
+        {name: "English", votes: 0},
+        {name: "German", votes: 0}
       ]
     }
   }
