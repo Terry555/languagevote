@@ -9,7 +9,7 @@ class App extends Component {
         {name: "French", votes: 0},
         {name: "Spanish", votes: 0},
         {name: "English", votes: 0},
-        {name: "Italian", votes: 0}
+        {name: "Portuguese", votes: 0}
       ]
     }
   }
